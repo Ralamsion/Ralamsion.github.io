@@ -10,6 +10,7 @@
 #main-nav {
     background: red;
     height: 50px;
+    position: relative;
 }
 
 #header {
